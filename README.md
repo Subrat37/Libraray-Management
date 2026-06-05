@@ -1,2 +1,2 @@
 # Libraray-Management
-This is a online Libraray Management System buid using Java where User can search book by book ID amd also Issue & return the book.
+This is an online Libraray Management System Project buid using Java where User can search book by bookID and also Issue & return the book.
